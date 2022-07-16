@@ -57,8 +57,8 @@ git remote add origin “link do repositório no Github” → Vincula o diretó
 
 git remote -v → Lista o repositório do Github que está vinculado
 
-git push origin master → “Empurra” o que você fez para o repositório no GitHub
+git push origin main → “Empurra” o que você fez para o repositório no GitHub
 
-git pull origin master → “Puxa” as versões alteradas, para que você analise e as integre
+git pull origin main → “Puxa” as versões alteradas, para que você analise e as integre
 
 git clone “link do repositório no Github” → Clona o repositório diretamente da git bash
